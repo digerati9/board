@@ -1,5 +1,7 @@
 ### Restyaboard
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 [![Build Status](https://travis-ci.org/RestyaPlatform/board.svg?branch=master)](https://travis-ci.org/RestyaPlatform/board) [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/RestyaPlatform/board.svg)](http://isitmaintained.com/project/RestyaPlatform/board "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/RestyaPlatform/board.svg)](http://isitmaintained.com/project/RestyaPlatform/board "Percentage of issues still open")
 [![Known Vulnerabilities](https://snyk.io/test/github/RestyaPlatform/board/badge.svg)](https://snyk.io/test/github/RestyaPlatform/board)
 
